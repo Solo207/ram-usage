@@ -1,0 +1,7 @@
+{
+  "name": "ram-ballast",
+  "version": "1.0.0",
+  "description": "Allocates a configurable amount of RAM to test VPS memory behaviour",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" }
+}
